@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecommerceinreact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ecommerceinreact/static/js/main.d981623b.chunk.js",
+    "main.js.map": "/ecommerceinreact/static/js/main.d981623b.chunk.js.map",
+    "runtime-main.js": "/ecommerceinreact/static/js/runtime-main.37c0cc0e.js",
+    "runtime-main.js.map": "/ecommerceinreact/static/js/runtime-main.37c0cc0e.js.map",
+    "static/js/2.53ad6872.chunk.js": "/ecommerceinreact/static/js/2.53ad6872.chunk.js",
+    "static/js/2.53ad6872.chunk.js.map": "/ecommerceinreact/static/js/2.53ad6872.chunk.js.map",
+    "static/js/3.67d79f20.chunk.js": "/ecommerceinreact/static/js/3.67d79f20.chunk.js",
+    "static/js/3.67d79f20.chunk.js.map": "/ecommerceinreact/static/js/3.67d79f20.chunk.js.map",
+    "index.html": "/ecommerceinreact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ecommerceinreact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.53ad6872.chunk.js.LICENSE.txt": "/ecommerceinreact/static/js/2.53ad6872.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c0cc0e.js",
+    "static/js/2.53ad6872.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d981623b.chunk.js"
+  ]
+}
